@@ -15,7 +15,7 @@
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LOS" revision="lineage-22.2" />
 
   <!-- kernel tree -->
-  <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="kona" revision="lineage-22.2" />
+  <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8250" remote="t25" revision="lineage-22.2" />
 
   <!-- vendor tree -->
   <project path="vendor/xiaomi/thyme" name="proprietary_vendor_xiaomi_thyme" remote="t25" revision="lineage-22.2" />
