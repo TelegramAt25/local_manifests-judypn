@@ -6,7 +6,7 @@
   <remote name="mups" fetch="https://github.com/TheMuppets" />
 
   <!-- device tree -->
-  <project path="device/lge/judypn" name="android_device_lge_judypn" remote="t25" revision="lineage-23.0" />
+  <project path="device/lge/judypn" name="android_device_lge_judypn" remote="t25" revision="lineage-22.2" />
 
   <!-- common device tree -->
   <project path="device/lge/sdm845-common" name="android_device_lge_sdm845-common" remote="t25" revision="lineage-23.0" />
