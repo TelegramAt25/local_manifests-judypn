@@ -15,7 +15,7 @@
   <project path="hardware/lge" name="android_hardware_lge" remote="LOS" revision="lineage-22.2" />
 
   <!-- kernel tree -->
-  <project path="kernel/lge/sdm845" name="android_kernel_lge_sdm845" remote="LOS" revision="lineage-22.2" />
+  <project path="kernel/lge/sdm845" name="android_kernel_lge_sdm845" remote="t25" revision="aster" />
 
   <!-- vendor tree -->
   <project path="vendor/lge/judypn" name="proprietary_vendor_lge_judypn" remote="mups" revision="lineage-22.2" />
